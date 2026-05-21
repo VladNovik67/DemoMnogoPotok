@@ -14,6 +14,7 @@ public class Main {
         List<Integer> list = List.of(1,2,3);
         ListIterator<Integer> listIterator = list.listIterator();
         System.out.println(listIterator.previous());
+        System.out.println();
     }
 
 
